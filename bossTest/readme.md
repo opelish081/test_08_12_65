@@ -1,9 +1,9 @@
-สร้าง class Person มี porperty ดังนี้
+## สร้าง class Person มี porperty ดังนี้
     - id เลขระบุ
     - name ชื่อ
     - Wishlist สิ่งของที่อยากได้
 
-โดยที่ method ดังนี้
+## โดยที่ method ดังนี้
     - constructor(name)
         - กำหนด id ให้เป็น running number(ใช้ static) (แบบว่า ไม่ต้องรับมาค่ามาจาก constructor ให้เลขรันเพิ่มไปเอง) โดยเริ่มที่ 1
         - กำหนด name ชือ โดยมีค่าเริ่มต้นเป็น 'N/A'
